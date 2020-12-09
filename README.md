@@ -7,3 +7,10 @@ Software Engineering Portfolio
 * Investigated and experimented with various image proccessing techniques, both in ArKit and SciKit-Image
 * Contributed to documents used by the team, such as Milestones, Sprint Reviews, and Retrospectives, and took notes during team meetings
 * Worked with team members to add image proccessing and image augmentation functionality to the applicaiton
+
+
+## Future Goals
+* Time Management Improvement
+* Improve Team Communication
+* Implement AR Steps 
+* Implement Variety of Objects Recognized 
